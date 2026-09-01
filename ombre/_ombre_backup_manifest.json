@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 10,
+  "file_count": 17,
   "files": [
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "3a69e2c0a2f49af3784bd3c3057367da177d5835d42af296d06f43fb19bef668"
+    },
     {
       "bytes": 28852,
       "path": "_app/docs/CLAUDE_PROMPT.md",
@@ -51,13 +56,43 @@
       "bytes": 508,
       "path": "_app/kernel/rust/ombre-kernel/README.md",
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 1097,
+      "path": "dynamic/人际/2026-09-01 14-53-59 逛街与一场体面的错过_099402359f40.md",
+      "sha256": "3fd731f513ab848d67f994b05b2e15b95236e34801e16563aeddeb498a58f83b"
+    },
+    {
+      "bytes": 1592,
+      "path": "dynamic/人际/2026-09-01 14-56-56 他是谁陆川档案_1162034b763c.md",
+      "sha256": "a85f96fdde0f25c852fc014966caa64f1d6fbdef1239a3b8ba4eadfced0e7704"
+    },
+    {
+      "bytes": 1610,
+      "path": "dynamic/恋爱/2026-09-01 14-57-01 我们的关系_fab45881e2f0.md",
+      "sha256": "bede3be089ee082016b88a4f2d32781230898728fd3faf38fb9bca3a8b1012a1"
+    },
+    {
+      "bytes": 1109,
+      "path": "dynamic/成长/2026-09-01 14-56-51 我是谁林柒档案_8af685ca9ac3.md",
+      "sha256": "b50c2daed110fdcc89126f8f9ac1e10584c09dbdf61aa8b00461c933a302616b"
+    },
+    {
+      "bytes": 788,
+      "path": "dynamic/未分类/2026-09-01 14-47-01 Ombre 新家第一笔_2bf3dd806d4a.md",
+      "sha256": "e67aeb991378b305aecf05281baa15c7165508c22cfecb921b5f0d7dd9217f18"
+    },
+    {
+      "bytes": 1523,
+      "path": "permanent/人际/2026-09-01 14-54-26 核心锚点永不丢_29b78b9123da.md",
+      "sha256": "2240968e074c19d4226f78047d50e7903042f1de1ca1ea21ee3d934c924c94f7"
     }
   ],
-  "generated_at": "2026-09-01T14:20:22+00:00",
+  "generated_at": "2026-09-01T15:23:25+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 309187
+  "total_bytes": 345578
 }
