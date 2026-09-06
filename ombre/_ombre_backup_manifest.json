@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 33,
+  "file_count": 34,
   "files": [
     {
       "bytes": 28672,
@@ -98,6 +98,11 @@
       "sha256": "41ef1c286806d8008669b8bf6e144fcf1656e0ff957cb767ade5197954b98d40"
     },
     {
+      "bytes": 2565,
+      "path": "dynamic/家庭/2026-09-06 05-32-39 9月5日 日记_2533ddae6997.md",
+      "sha256": "fbf7ee348dd02d56e00322b856bd21d6077286d799b48e03296302cf4141be4a"
+    },
+    {
       "bytes": 1770,
       "path": "dynamic/工作/2026-09-04 09-09-33 近期约定与待办_d96086af9fb9.md",
       "sha256": "bc856c4cad05003c2e3c952e102afedd17032bddf521ef0f950d81a1ec28f2d1"
@@ -128,9 +133,9 @@
       "sha256": "c9a0e49a7e2ad6ce03599756b8f0228c3c87ee1a0d46d360d81d612aa289784b"
     },
     {
-      "bytes": 1109,
+      "bytes": 1133,
       "path": "dynamic/成长/2026-09-01 14-56-51 我是谁林柒档案_8af685ca9ac3.md",
-      "sha256": "b50c2daed110fdcc89126f8f9ac1e10584c09dbdf61aa8b00461c933a302616b"
+      "sha256": "21796255ebc5388aac3718aeeda2370afef10e990f8ce625a9a2ae4698200544"
     },
     {
       "bytes": 835,
@@ -168,11 +173,11 @@
       "sha256": "33722a2fee49915d7c1038452eaf03cc21659ac86dee6c93fc8368156ccc4ac5"
     }
   ],
-  "generated_at": "2026-09-06T05:05:36+00:00",
+  "generated_at": "2026-09-06T05:35:40+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 375933
+  "total_bytes": 378522
 }
