@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 34,
+  "file_count": 36,
   "files": [
     {
       "bytes": 28672,
@@ -88,6 +88,11 @@
       "sha256": "1fe6c0618eceadfe4e2dfb9f005eaaee5d76428b14cec509cbad102d69fc581e"
     },
     {
+      "bytes": 2293,
+      "path": "dynamic/人际/2026-09-07 03-16-14 9月7日 日记_7c63d28e55ab.md",
+      "sha256": "395e5fa202d7ee37e1853506da6d9e5d40fbb8d43d03b0315d5ada140b3a4dc9"
+    },
+    {
       "bytes": 1779,
       "path": "dynamic/内心/2026-09-03 04-56-05 9月2日 日记_1157ddddcc26.md",
       "sha256": "12aabcdc7a74f98ddfb389f2add19977fb451767ef68196254cbdc147d6b31b7"
@@ -98,9 +103,9 @@
       "sha256": "41ef1c286806d8008669b8bf6e144fcf1656e0ff957cb767ade5197954b98d40"
     },
     {
-      "bytes": 2565,
+      "bytes": 2690,
       "path": "dynamic/家庭/2026-09-06 05-32-39 9月5日 日记_2533ddae6997.md",
-      "sha256": "fbf7ee348dd02d56e00322b856bd21d6077286d799b48e03296302cf4141be4a"
+      "sha256": "4da8587ebb4c463268d8c1dc2065b17269a186a666081d2bf8d33e940cce7b27"
     },
     {
       "bytes": 1770,
@@ -138,6 +143,11 @@
       "sha256": "94cf95dc39d7dbc3bb2833a7ab7bf67e864e19bf59d0a074287d83fd5930dc2a"
     },
     {
+      "bytes": 2207,
+      "path": "dynamic/成长/2026-09-07 03-17-13 9月6日 日记_deeddb33ee16.md",
+      "sha256": "a9b22ac1c79479394b780ca26d88d6930baeab3930b5a5678c77f6a2b34aa6c6"
+    },
+    {
       "bytes": 835,
       "path": "dynamic/数字/2026-09-01 15-54-45 今晚的模型换血_ad1b14147b73.md",
       "sha256": "87854c4fe79d8662efc7c39bdb7fb6935bddb8c01f2e54387335d1daa8731d6b"
@@ -173,11 +183,11 @@
       "sha256": "33722a2fee49915d7c1038452eaf03cc21659ac86dee6c93fc8368156ccc4ac5"
     }
   ],
-  "generated_at": "2026-09-07T03:08:36+00:00",
+  "generated_at": "2026-09-07T03:38:40+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 378556
+  "total_bytes": 383181
 }
