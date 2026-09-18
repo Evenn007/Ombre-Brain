@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 54,
+  "file_count": 55,
   "files": [
     {
       "bytes": 28672,
@@ -271,13 +271,18 @@
       "bytes": 2074,
       "path": "permanent/人际/2026-09-01 14-54-26 核心锚点永不丢_29b78b9123da.md",
       "sha256": "33722a2fee49915d7c1038452eaf03cc21659ac86dee6c93fc8368156ccc4ac5"
+    },
+    {
+      "bytes": 1526,
+      "path": "plans/active/2026-09-18 07-32-02_e2049cbfd0bb.md",
+      "sha256": "9c36c618e45968b709465db164dd10decd3ea8cad48821af6e59fd85fb8fc795"
     }
   ],
-  "generated_at": "2026-09-18T07:18:11+00:00",
+  "generated_at": "2026-09-18T07:48:15+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 441980
+  "total_bytes": 443506
 }
