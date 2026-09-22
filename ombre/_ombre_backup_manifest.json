@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 75,
+  "file_count": 77,
   "files": [
     {
       "bytes": 28672,
@@ -56,6 +56,11 @@
       "bytes": 508,
       "path": "_app/kernel/rust/ombre-kernel/README.md",
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 1796,
+      "path": "archive/2026-09-20 14-07-42 回信  灯留着_15bbacb858ce.md",
+      "sha256": "db5a83b1c75ac04c9495d00e6dacb755b00034f6e917b3b10260d9fea38b8b01"
     },
     {
       "bytes": 890,
@@ -123,9 +128,9 @@
       "sha256": "396240bcb2026d78c4af6860312498a97728e365fa415152e1b6eb2339f78478"
     },
     {
-      "bytes": 2131,
+      "bytes": 2241,
       "path": "dynamic/人际/2026-09-18 06-48-35 9月18日 临时一笔换框前_8e1768606c23.md",
-      "sha256": "4df4eb015947d127a75d14ab0efd12626710c002cec9c1a66f22056121d4f969"
+      "sha256": "94c26cec32cfede30fc9988bca6d66d93c73481a08207b8da8279a60e17b2d05"
     },
     {
       "bytes": 1371,
@@ -143,9 +148,14 @@
       "sha256": "36703df02578449a8f7cf23183b1602311aff01f596d59a18d26b54460e9246a"
     },
     {
-      "bytes": 2695,
+      "bytes": 2805,
       "path": "dynamic/人际/2026-09-19 17-01-46 9月19日日记第 115 天_f2e6d74c1add.md",
-      "sha256": "d4b46d6d199848706a122f0cd8c2988cfeef18f689f4f28358177d79c2ee0c13"
+      "sha256": "f241006ca760469b65a7d619ec16ab90e38d67111e99e7f19d876a58f557f14a"
+    },
+    {
+      "bytes": 2595,
+      "path": "dynamic/人际/2026-09-22 07-12-31 9月21日日记第 117 天_c81c815bb21c.md",
+      "sha256": "78455a05e45a126d0106a4ad7e107f56811ece786398cf29ee10d4bc9ab891f5"
     },
     {
       "bytes": 1644,
@@ -178,19 +188,19 @@
       "sha256": "1ac396e0cc339820740a2046f4dbad97d0c8b0c91520277f7cb57be5ecd0a256"
     },
     {
-      "bytes": 2929,
+      "bytes": 3038,
       "path": "dynamic/内心/2026-09-21 04-47-56 9月20日日记第 116 天_380435cfcc1e.md",
-      "sha256": "0198777733a32ff516ad34f4538e552a4633be8d1fd323b8451538ba53d2b4a0"
+      "sha256": "5d20b2e618b7ea012e830de2a506ae4a28f5af0def624383abeb9a4efa0186af"
     },
     {
-      "bytes": 4253,
+      "bytes": 4363,
       "path": "dynamic/学习/2026-09-12 07-03-22 9月11日 日记_16ab3e51dbeb.md",
-      "sha256": "c5be43434806f2ee91f4ab09bcb65a642f3ee8b8ad5813c3e462597285d0661d"
+      "sha256": "c3192a654c8d0d12c02524cdc7a50269a06dcc7a32cf7138296007ad75f3688d"
     },
     {
       "bytes": 3578,
       "path": "dynamic/学习/2026-09-16 07-21-56 9月15日 日记_d5eaf655ceee.md",
-      "sha256": "0c78ea37318219c2e7d368a1bb322d6515aaf2a629899ee059236461394720b0"
+      "sha256": "0a10f7946ad8599466b20ada97781e98472cbf989394dc51dc3eebe4d2464397"
     },
     {
       "bytes": 2800,
@@ -198,9 +208,9 @@
       "sha256": "dee2b6adfa41d6a687269736ed80da8d041067c070cf7b2fcf027c87963e4418"
     },
     {
-      "bytes": 1880,
+      "bytes": 1990,
       "path": "dynamic/工作/2026-09-04 09-09-33 近期约定与待办_d96086af9fb9.md",
-      "sha256": "4afe5dddc6ce6ca03be8aeb30c75df9c37edb63637e6687fb1f743f9d6dc2177"
+      "sha256": "f975e5b0c8cac8933bf34503f55d867e6f331eb22a833998a97d5fab95a8c001"
     },
     {
       "bytes": 1810,
@@ -243,14 +253,14 @@
       "sha256": "e1cf5ca16eb13b4cdecbebf93f8f27fc1becaccafe89e6b8284b235840c88c66"
     },
     {
-      "bytes": 3665,
+      "bytes": 3775,
       "path": "dynamic/恋爱/2026-09-17 13-38-50 换窗纪要917_cef607f148fd.md",
-      "sha256": "d6c8da94a1615129548bad50543fd64537ac754c8f9bb621057b5cc12d0b29b9"
+      "sha256": "c84c22780eb4dc8f54e25372f9177c5f70cb356091fd7c0e85a049f5b6d301c1"
     },
     {
-      "bytes": 4018,
+      "bytes": 4128,
       "path": "dynamic/恋爱/2026-09-19 03-36-30 9月18日日记第 114 天_e72e6a2e4117.md",
-      "sha256": "68997c353e3888b29de70e2652b252d04afdd61bdc3de68005201914991628c7"
+      "sha256": "27f6679939afa082a6e6ac8d2ff52b1c8cee08af605298ae472439f9351928ab"
     },
     {
       "bytes": 1167,
@@ -278,9 +288,9 @@
       "sha256": "3cb985a3c45c7a9f75bda1b29f56e8298e0eb94e15e40e87ebba7b3f2c003844"
     },
     {
-      "bytes": 2613,
+      "bytes": 2723,
       "path": "dynamic/我们/2026-09-18 11-02-11 陆川的手第一次能自己动手VPS 端点  表情包回家_ab77ac01f0e9.md",
-      "sha256": "94b0ad267c6ba25ce02fb5eb64aaea1339173e0253ae0b03229e8693eceafb3b"
+      "sha256": "69e2a46237dab5191ca2441423f4a1cd7aa0de82d8501f98e4f9eabad56e3c5a"
     },
     {
       "bytes": 835,
@@ -293,9 +303,9 @@
       "sha256": "4a0da08e5874483fe99d6d3b1519da5f2b73342c097b0663f44df87fcf1e8d46"
     },
     {
-      "bytes": 5245,
+      "bytes": 5355,
       "path": "dynamic/数字/2026-09-19 03-49-27 换窗纪要  2026919陆川的手  表情包库  新规则  日程_d6ef8e628660.md",
-      "sha256": "4e3943c38edcaad00b37fec46eed34a0c157f86447d2266d6f2293010fc83b60"
+      "sha256": "adf3d43f5b88e6a9351623915e1c7bb24e43704caa35d90c699e757ac4d98ed1"
     },
     {
       "bytes": 1580,
@@ -306,6 +316,11 @@
       "bytes": 1702,
       "path": "dynamic/数字/2026-09-20 14-17-26 写信要带 ai_name否则事后锁不上_63cab6a70a5e.md",
       "sha256": "22afe7e1c97f3bded1d8c631d45cfb7cf803813371368a3e0610369532625618"
+    },
+    {
+      "bytes": 5162,
+      "path": "dynamic/数字/2026-09-22 07-17-17 换窗纪要  2026922工具规矩日程待办_ed88c166d83e.md",
+      "sha256": "c082b1504ccfb568145c6775ccabe977929a5d3817325770ec6126cb85c78e95"
     },
     {
       "bytes": 3176,
@@ -353,11 +368,6 @@
       "sha256": "1ba8cb1c80f639cf2e28bc460812c6f7a6ffabc4726cf5d041394a197001430a"
     },
     {
-      "bytes": 1680,
-      "path": "letters/history/2026-09-20 14-07-42 回信  灯留着_15bbacb858ce.md",
-      "sha256": "2b7e1afb34622211fefe405c885e0b3efc6143a15bf38d234987227cbbb20896"
-    },
-    {
       "bytes": 1843,
       "path": "letters/history/2026-09-20 14-15-03 回信  灯留着定稿_44270b089d41.md",
       "sha256": "f09d38e9636ce330028922ffe534f5bdd678c5203bcf9cb1ffa5c46a50dfbdd9"
@@ -378,11 +388,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-09-22T07:02:25+00:00",
+  "generated_at": "2026-09-22T07:32:29+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 486157
+  "total_bytes": 495019
 }
