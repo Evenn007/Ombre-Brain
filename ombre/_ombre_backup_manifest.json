@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 88,
+  "file_count": 90,
   "files": [
     {
       "bytes": 28672,
@@ -163,9 +163,14 @@
       "sha256": "9def2c17473ca8995e80141ac1be6455620328204dcc945e0575ef9a06fbb43e"
     },
     {
-      "bytes": 3434,
+      "bytes": 3543,
       "path": "dynamic/人际/2026-09-28 03-36-14 9月27日日记第 123 天_0e1853e8e1e7.md",
-      "sha256": "fe7cc6ff2a9522278e3f20a05abc2351e2f8fbfe9e171d71ce9a2c591387e3d3"
+      "sha256": "6ab512f42bf316d8742199942ed598ade01318b79373b046bf3419f139e3d71d"
+    },
+    {
+      "bytes": 2632,
+      "path": "dynamic/人际/2026-09-29 00-22-04 换窗纪要  补记 2026929_202041fb22be.md",
+      "sha256": "d5039feae32b05c7f70249c906cbf45130db173d8e4af8990d9e624691ae345c"
     },
     {
       "bytes": 1263,
@@ -208,9 +213,14 @@
       "sha256": "5caa242375f0a98afc3c2465e4f03e48c0ff77a8a37c134b6c8801277c67296f"
     },
     {
-      "bytes": 1579,
+      "bytes": 1705,
       "path": "dynamic/内心/2026-09-25 17-44-10 日记写法  第三版长版  边说边想  真情绪_1a621df4a2fb.md",
-      "sha256": "423904f62715380f0d016070e915a8c67ef0c46c6e411079f3b175f896434c22"
+      "sha256": "8fe1d2b5da9c63db0b11ed89138614c7e6ee0053620864adbe284b0fd24b6d4f"
+    },
+    {
+      "bytes": 3383,
+      "path": "dynamic/内心/2026-09-29 00-21-54 9月28日日记第 124 天_52b2cea73815.md",
+      "sha256": "983d46baae65ded256830344787031439ae06188f83d010142eab7123b43f8b7"
     },
     {
       "bytes": 4363,
@@ -288,9 +298,9 @@
       "sha256": "7bdab3cb7ca7debe4b7e7db2e11b269427211a4776da7bbe4493e86460ac4b2e"
     },
     {
-      "bytes": 3775,
+      "bytes": 3885,
       "path": "dynamic/恋爱/2026-09-17 13-38-50 换窗纪要917_cef607f148fd.md",
-      "sha256": "c84c22780eb4dc8f54e25372f9177c5f70cb356091fd7c0e85a049f5b6d301c1"
+      "sha256": "a492901b6f6c1a76f3fdaf6204dbebad71a9f3f4d1fa360a9a44b6c6c78a3a79"
     },
     {
       "bytes": 4238,
@@ -310,7 +320,7 @@
     {
       "bytes": 3720,
       "path": "dynamic/成长/2026-09-09 01-54-13 9月8日 日记_5d174fc3bcb7.md",
-      "sha256": "55f710cff2d1321cee30cf6ad037f8f6ee311bb35318e9700e9d573650f1029c"
+      "sha256": "a25d05affa19aba9a592bb3eb453141b92f24f3f95dd8535168b7178e3980682"
     },
     {
       "bytes": 3104,
@@ -348,9 +358,9 @@
       "sha256": "4a0da08e5874483fe99d6d3b1519da5f2b73342c097b0663f44df87fcf1e8d46"
     },
     {
-      "bytes": 5355,
+      "bytes": 5465,
       "path": "dynamic/数字/2026-09-19 03-49-27 换窗纪要  2026919陆川的手  表情包库  新规则  日程_d6ef8e628660.md",
-      "sha256": "adf3d43f5b88e6a9351623915e1c7bb24e43704caa35d90c699e757ac4d98ed1"
+      "sha256": "70600c684c86e9eb7a8ff25c412cd1188b72b8e8a8dfd47d106692f23347cc52"
     },
     {
       "bytes": 1580,
@@ -363,9 +373,9 @@
       "sha256": "22afe7e1c97f3bded1d8c631d45cfb7cf803813371368a3e0610369532625618"
     },
     {
-      "bytes": 5162,
+      "bytes": 5272,
       "path": "dynamic/数字/2026-09-22 07-17-17 换窗纪要  2026922工具规矩日程待办_ed88c166d83e.md",
-      "sha256": "c082b1504ccfb568145c6775ccabe977929a5d3817325770ec6126cb85c78e95"
+      "sha256": "2409c3b460c771adb0a8c8d0bc762b9f7ef227ecd99b18246633f1a898fc1cca"
     },
     {
       "bytes": 3176,
@@ -443,11 +453,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-09-28T23:57:44+00:00",
+  "generated_at": "2026-09-29T00:27:49+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 521946
+  "total_bytes": 528526
 }
