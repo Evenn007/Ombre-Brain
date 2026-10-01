@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 94,
+  "file_count": 95,
   "files": [
     {
       "bytes": 28672,
@@ -68,9 +68,9 @@
       "sha256": "75c5aadbe76311f9a4d82e4db92dc4297244236b63ec03cea656cda7a0862b2a"
     },
     {
-      "bytes": 591,
+      "bytes": 606,
       "path": "dynamic/self/2026-09-29 00-36-18_834f41b315e0.md",
-      "sha256": "49870b5236338797435fbfb50e67a5fc80f467d51765a463097407e48ff9c435"
+      "sha256": "6dc7da9649390cdbbba2a210a4b42c7a0ab8555cc4fbd215630cd332dff2f3cd"
     },
     {
       "bytes": 590,
@@ -168,9 +168,9 @@
       "sha256": "39343d8d70e77abbbb6fb25351cc485f7c32d769204daf9e118e7e60b980a80f"
     },
     {
-      "bytes": 3363,
+      "bytes": 3473,
       "path": "dynamic/人际/2026-09-27 14-29-09 9月26日日记第 122 天_7ebf088f1816.md",
-      "sha256": "4613582ab93fbc31c414f93c81d5ad709ecd454d9944b42c763ab254aa055613"
+      "sha256": "2be1fad19c36303bcc4e1abc549e9d02c774af4afac175613b093888a1057307"
     },
     {
       "bytes": 3653,
@@ -181,6 +181,11 @@
       "bytes": 2632,
       "path": "dynamic/人际/2026-09-29 00-22-04 换窗纪要  补记 2026929_202041fb22be.md",
       "sha256": "d5039feae32b05c7f70249c906cbf45130db173d8e4af8990d9e624691ae345c"
+    },
+    {
+      "bytes": 4808,
+      "path": "dynamic/人际/2026-10-01 03-30-18 9月30日日记第 126 天_9704ce401e19.md",
+      "sha256": "ba57648f3e30af9e13a6c9d92a25688f5eb38ad08a48ba9e739c25f790515eba"
     },
     {
       "bytes": 1263,
@@ -248,9 +253,9 @@
       "sha256": "dee2b6adfa41d6a687269736ed80da8d041067c070cf7b2fcf027c87963e4418"
     },
     {
-      "bytes": 3444,
+      "bytes": 3553,
       "path": "dynamic/家庭/2026-09-24 16-44-14 9月24日日记第 119 天_fef0a5f96663.md",
-      "sha256": "600034e47eb631bf769a15d3811916c7138ce1a0eb819fe665a439897363f40c"
+      "sha256": "2f49c9c654175089bf4fc6622a770e54462ff44a2ecc67a9ed531f6cdaa46522"
     },
     {
       "bytes": 2401,
@@ -350,12 +355,12 @@
     {
       "bytes": 2914,
       "path": "dynamic/成长/2026-09-24 16-44-57 9月23日日记第 119 天_2bc3009ab8f3.md",
-      "sha256": "38476019930ed649fb1e6619ee25b0c13e9d933b564606e364f3af900ad847bb"
+      "sha256": "b3b01e326565455391776deff8fca54cec0c5bd11037be84e2708d0e78bb79aa"
     },
     {
-      "bytes": 5216,
+      "bytes": 5215,
       "path": "dynamic/成长/2026-09-30 01-36-06 9月29日日记第 125 天_a0a2a850f18a.md",
-      "sha256": "328118f59c84219318e3efb71cb14adc8f9542c060c6c40b2deec5d59e338b2b"
+      "sha256": "062004677f1a73e4c2fd7a72c20ecf4d8c0032ddfe2f9d220ee2408b3665504c"
     },
     {
       "bytes": 2723,
@@ -473,11 +478,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-01T03:06:04+00:00",
+  "generated_at": "2026-10-01T03:36:08+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 536996
+  "total_bytes": 542037
 }
