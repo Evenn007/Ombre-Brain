@@ -68,9 +68,9 @@
       "sha256": "75c5aadbe76311f9a4d82e4db92dc4297244236b63ec03cea656cda7a0862b2a"
     },
     {
-      "bytes": 678,
-      "path": "dynamic/self/2026-09-29 00-36-18_834f41b315e0.md",
-      "sha256": "26e6adabbd00f13e00d6bb9918d62ef2b3b4ca5d8cb35e17f59ff55d4929a082"
+      "bytes": 679,
+      "path": "archive/self/2026-09-29 00-36-18_834f41b315e0.md",
+      "sha256": "c2e7550fd6b6248ebc51f4359e172380a91bd58f5613db6b6d3023d953a11d50"
     },
     {
       "bytes": 590,
@@ -498,11 +498,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-03T15:46:09+00:00",
+  "generated_at": "2026-10-03T16:16:13+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 554107
+  "total_bytes": 554108
 }
