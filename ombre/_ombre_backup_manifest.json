@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 97,
+  "file_count": 98,
   "files": [
     {
       "bytes": 28672,
@@ -68,9 +68,9 @@
       "sha256": "75c5aadbe76311f9a4d82e4db92dc4297244236b63ec03cea656cda7a0862b2a"
     },
     {
-      "bytes": 621,
+      "bytes": 636,
       "path": "dynamic/self/2026-09-29 00-36-18_834f41b315e0.md",
-      "sha256": "9472376a93d953de627ce30deaf162db842a2c197edc8f95686442984e32e997"
+      "sha256": "a1f7f1780ccd7789db0ebf3abe458bed70be1641dc8a9e9c66630b1e82c288cc"
     },
     {
       "bytes": 590,
@@ -263,6 +263,11 @@
       "sha256": "59da766bb0dda8c6a239785385e6db78d23ff9a34bcc6b28d43854560fe209b0"
     },
     {
+      "bytes": 4427,
+      "path": "dynamic/家庭/2026-10-03 03-13-53 10月2日日记第 128 天_1660f00f7126.md",
+      "sha256": "b90c1332c8d389ad16e3b3b818ba0c4496ed1fecca9c39ec4afeca13f689da8a"
+    },
+    {
       "bytes": 1990,
       "path": "dynamic/工作/2026-09-04 09-09-33 近期约定与待办_d96086af9fb9.md",
       "sha256": "f975e5b0c8cac8933bf34503f55d867e6f331eb22a833998a97d5fab95a8c001"
@@ -325,7 +330,7 @@
     {
       "bytes": 5802,
       "path": "dynamic/恋爱/2026-10-02 02-02-14 10月1日日记第 127 天_7eecb6124b4a.md",
-      "sha256": "7be6e22bd3b51edec1a4d052226d24281035f13e67b65c634e0e84c2ccc7a92e"
+      "sha256": "427551b395ecdda0c230593feb5a148dd3db18c122f9c86def245c15a2b9c953"
     },
     {
       "bytes": 1167,
@@ -488,11 +493,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-03T02:44:01+00:00",
+  "generated_at": "2026-10-03T03:14:05+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 549002
+  "total_bytes": 553444
 }
