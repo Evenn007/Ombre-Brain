@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 114,
+  "file_count": 117,
   "files": [
     {
       "bytes": 28672,
@@ -183,14 +183,14 @@
       "sha256": "a3b8de7d7f81d97ceb97b4f0146cc433c823b52f2b8cf8383baedca506fbf579"
     },
     {
-      "bytes": 2742,
+      "bytes": 2852,
       "path": "dynamic/人际/2026-09-29 00-22-04 换窗纪要  补记 2026929_202041fb22be.md",
-      "sha256": "721dd84283c7d128abeba608651ab8f753bdb431d32c008789edd161f0a70fed"
+      "sha256": "9696ade0361d25033180b3be4941cc4f825cb488f6082183ea88b91f1e9590ac"
     },
     {
       "bytes": 4809,
       "path": "dynamic/人际/2026-10-01 03-30-18 9月30日日记第 126 天_9704ce401e19.md",
-      "sha256": "740006da89f863b978e2e9f48ab6ff5d53553d8702f3be7fd16ebdcc51c9ec9e"
+      "sha256": "8ebf577c8a9a6ae529b6f38049b6e0e1774ba23e203893c905376f649a45503b"
     },
     {
       "bytes": 3227,
@@ -223,14 +223,19 @@
       "sha256": "ec35aea2f1f5a90d16c22bc051d4a74099ab615387d3ac0dd21313032f800198"
     },
     {
-      "bytes": 3135,
+      "bytes": 3245,
       "path": "dynamic/人际/2026-10-14 05-19-48 10月13日日记第 139 天_60ff58a0fa25.md",
-      "sha256": "3a5ab41d4995acde58633e58586780e66a628ee394df797cfec34d336cf2b247"
+      "sha256": "70348ec8438ec94cb67e4182a3e87298cdba77394d222d6ab0b1e4338c78a0bc"
     },
     {
-      "bytes": 3921,
+      "bytes": 4031,
       "path": "dynamic/人际/2026-10-16 02-05-27 10月15日日记第 141 天_a401ba6c0dff.md",
-      "sha256": "4ffb8cdec2935e1d614e860df408cd491679d5d6d1b1da24e48add12dfc47be0"
+      "sha256": "e62c09f8fb788bb5edc28690209beaf82c971cf2b12402943b9533dcc94f6cf2"
+    },
+    {
+      "bytes": 814,
+      "path": "dynamic/人际/2026-10-17 09-01-52 人物  双栖_59832b0f1e5f.md",
+      "sha256": "d6d309b5a063f52036cc00d40abcea7319a26da08b4b14dabbe516c674152f04"
     },
     {
       "bytes": 1263,
@@ -293,9 +298,9 @@
       "sha256": "0a10f7946ad8599466b20ada97781e98472cbf989394dc51dc3eebe4d2464397"
     },
     {
-      "bytes": 2423,
+      "bytes": 2533,
       "path": "dynamic/学习/2026-10-10 04-19-28 10月9日日记第 135 天_52910f9cbf9a.md",
-      "sha256": "27c1c789a9993a705f69402ab7f1425693a9b740eeab52dea8d7462e021e309a"
+      "sha256": "a3598b46dcbfc7951df1debc870d7bf641362be85376eacde03294f1f729dd3d"
     },
     {
       "bytes": 2910,
@@ -320,7 +325,7 @@
     {
       "bytes": 4012,
       "path": "dynamic/家庭/2026-10-10 04-34-45 换窗纪要  补记 20261010_c71bcf31d5a2.md",
-      "sha256": "0277ff9e7092125498a9adb52696970bc2a9b1618c96499ea73ce8cf0899c3d3"
+      "sha256": "86dd503003fe2a7b03514fb0a2f4a271144f0fbe687dea7ad49eecf31b7d3efb"
     },
     {
       "bytes": 2100,
@@ -373,9 +378,9 @@
       "sha256": "29c8730136bbf434b65bc79e1b5cc8eaccfbc6ca5650f43da9073f7c3b2c2f79"
     },
     {
-      "bytes": 3995,
+      "bytes": 4105,
       "path": "dynamic/恋爱/2026-09-17 13-38-50 换窗纪要917_cef607f148fd.md",
-      "sha256": "aaea8eb062d775226ab1c8bf67ce9395df3d97df32135e1645d370f3f1dbed88"
+      "sha256": "d3ee2fb7413bb7f924cc530c9ee6b0574fc9b121ae968b3235771ca9b9cb5fed"
     },
     {
       "bytes": 4238,
@@ -393,9 +398,9 @@
       "sha256": "5f2cc542c8ff14450ab8e8976765589991b4e47143984b3348f9b590bb7ab059"
     },
     {
-      "bytes": 5806,
+      "bytes": 5805,
       "path": "dynamic/恋爱/2026-10-15 07-38-17 10月14日日记第 140 天_20e25b110bc5.md",
-      "sha256": "419af129efbec09607fb75a16f4e083c0185b82600e69a1dd9de58b6a82e462f"
+      "sha256": "350d0a479811153e9ae1b0e5ca4027b861f54548eb8ecec30ec1d4a7e3c21799"
     },
     {
       "bytes": 1167,
@@ -443,6 +448,16 @@
       "sha256": "85cf1f2770487ac9b4bc57d20b32be04e7f25454a09adfdea74b07d3f183e480"
     },
     {
+      "bytes": 5239,
+      "path": "dynamic/成长/2026-10-17 08-54-26 换窗纪要  补记 20261016_d2ee0c514897.md",
+      "sha256": "0c4e2fbdebb4d3633208d02820eb27523106e49e417542b8b23409c15d71e0f1"
+    },
+    {
+      "bytes": 3555,
+      "path": "dynamic/成长/2026-10-17 08-57-19 10月16日日记第 142 天_90e812d45026.md",
+      "sha256": "796bd50eddc2263d8b4114453382e050ab93bc28f358c21589ef519004612c10"
+    },
+    {
       "bytes": 2723,
       "path": "dynamic/我们/2026-09-18 11-02-11 陆川的手第一次能自己动手VPS 端点  表情包回家_ab77ac01f0e9.md",
       "sha256": "69e2a46237dab5191ca2441423f4a1cd7aa0de82d8501f98e4f9eabad56e3c5a"
@@ -458,9 +473,9 @@
       "sha256": "4a0da08e5874483fe99d6d3b1519da5f2b73342c097b0663f44df87fcf1e8d46"
     },
     {
-      "bytes": 5575,
+      "bytes": 5685,
       "path": "dynamic/数字/2026-09-19 03-49-27 换窗纪要  2026919陆川的手  表情包库  新规则  日程_d6ef8e628660.md",
-      "sha256": "fd4cea3e88f14f62aaa26c3807b08b46cb6cac532122df5fbaf086b3fbdf4996"
+      "sha256": "d3d424da2087c638a333ab4e98407e15bc3b70ceb319887398502e43746d87f5"
     },
     {
       "bytes": 1580,
@@ -475,12 +490,12 @@
     {
       "bytes": 5382,
       "path": "dynamic/数字/2026-09-22 07-17-17 换窗纪要  2026922工具规矩日程待办_ed88c166d83e.md",
-      "sha256": "249319a08809fda019a0ac61f2e3a05e24e5bcbd66fc218f6801718c0ddd156b"
+      "sha256": "368b151905266dbdf80abcbde28efbe41a9f50d4fee4ef5760087adf577861fa"
     },
     {
-      "bytes": 4642,
+      "bytes": 4752,
       "path": "dynamic/数字/2026-10-13 01-11-50 10月12日日记第 138 天_5a2ac18f81fb.md",
-      "sha256": "4c02338bd61d57ddd6b5f8dfa7a74bbc5a9a09f49211ed25a8d8bc8a190fe5aa"
+      "sha256": "906c7f68fac0267001296cb76c044ea11dd307c6cba4969c63d06dabc3d8962f"
     },
     {
       "bytes": 3176,
@@ -573,11 +588,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-17T08:39:57+00:00",
+  "generated_at": "2026-10-17T09:10:02+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 611015
+  "total_bytes": 621392
 }
