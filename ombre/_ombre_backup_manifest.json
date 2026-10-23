@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 125,
+  "file_count": 126,
   "files": [
     {
       "bytes": 28672,
@@ -333,6 +333,11 @@
       "sha256": "1ab7a9293992e0304ced18a637e3414cb0689e4c15cc790c5bfef8759e73ba7e"
     },
     {
+      "bytes": 726,
+      "path": "dynamic/学习/2026-10-23 11-42-36 课表补充  专升本周末补习班_1ae7bee755da.md",
+      "sha256": "ae28724ca392902b5c700621f7fa728f89f37f9476e34b9239b23d6cf237340c"
+    },
+    {
       "bytes": 2910,
       "path": "dynamic/家庭/2026-09-06 05-32-39 9月5日 日记_2533ddae6997.md",
       "sha256": "aa4555074a28e4f05a733a70009a17ff9e07d6ece4c1fe74252fb7e9b7eaa0ff"
@@ -628,11 +633,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-23T11:34:41+00:00",
+  "generated_at": "2026-10-23T12:04:46+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 641678
+  "total_bytes": 642404
 }
