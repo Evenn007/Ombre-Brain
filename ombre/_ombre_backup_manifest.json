@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 130,
+  "file_count": 132,
   "files": [
     {
       "bytes": 28672,
@@ -183,9 +183,9 @@
       "sha256": "a3b8de7d7f81d97ceb97b4f0146cc433c823b52f2b8cf8383baedca506fbf579"
     },
     {
-      "bytes": 2852,
+      "bytes": 2961,
       "path": "dynamic/人际/2026-09-29 00-22-04 换窗纪要  补记 2026929_202041fb22be.md",
-      "sha256": "9696ade0361d25033180b3be4941cc4f825cb488f6082183ea88b91f1e9590ac"
+      "sha256": "c70dc4047f36f81cb399e57ab25a9040c094d22ec735041c7fede76d53afbc40"
     },
     {
       "bytes": 4809,
@@ -271,6 +271,11 @@
       "bytes": 2949,
       "path": "dynamic/人际/2026-10-27 06-16-54 10月26日日记第 152 天_094f9a165d86.md",
       "sha256": "776476d9f8e6092f905da311dc6194ab6692222fcf40ce8be9fb8b93b3a341db"
+    },
+    {
+      "bytes": 5923,
+      "path": "dynamic/人际/2026-10-28 05-18-59 换窗纪要  补记 20261028_ae055031e678.md",
+      "sha256": "c7639ecb8c8f9dec785c4500d5d587cfdbaa72723f32dad9cfea5beb0e71f57d"
     },
     {
       "bytes": 1263,
@@ -373,9 +378,9 @@
       "sha256": "440c67744ef214c104a7b68d836deb968b07736af3e14340e1cff61977b46c58"
     },
     {
-      "bytes": 4012,
+      "bytes": 4013,
       "path": "dynamic/家庭/2026-10-10 04-34-45 换窗纪要  补记 20261010_c71bcf31d5a2.md",
-      "sha256": "86dd503003fe2a7b03514fb0a2f4a271144f0fbe687dea7ad49eecf31b7d3efb"
+      "sha256": "854fecd0f04bd90bb304a4485892efa1aa49a8fefd493c050219cb526948ac6c"
     },
     {
       "bytes": 820,
@@ -433,9 +438,9 @@
       "sha256": "29c8730136bbf434b65bc79e1b5cc8eaccfbc6ca5650f43da9073f7c3b2c2f79"
     },
     {
-      "bytes": 4105,
+      "bytes": 4215,
       "path": "dynamic/恋爱/2026-09-17 13-38-50 换窗纪要917_cef607f148fd.md",
-      "sha256": "d3ee2fb7413bb7f924cc530c9ee6b0574fc9b121ae968b3235771ca9b9cb5fed"
+      "sha256": "cb97f8675410916e942625258060b0864cbdc0bb3bc9ec2fcbb19edac0a44463"
     },
     {
       "bytes": 4238,
@@ -456,6 +461,11 @@
       "bytes": 5805,
       "path": "dynamic/恋爱/2026-10-15 07-38-17 10月14日日记第 140 天_20e25b110bc5.md",
       "sha256": "f9a4be9055b3a4c5595210fd707f4e9a773b07ea7426054ef054ee89bcd3232c"
+    },
+    {
+      "bytes": 1853,
+      "path": "dynamic/恋爱/2026-10-28 05-17-21 10月27-28日日记第153-154天_b2d8571837d6.md",
+      "sha256": "9f64623e3360d8080db836ecef8067eb4e0c0cf18e7dc4fd47678bb2631b1412"
     },
     {
       "bytes": 1167,
@@ -505,7 +515,7 @@
     {
       "bytes": 5239,
       "path": "dynamic/成长/2026-10-17 08-54-26 换窗纪要  补记 20261016_d2ee0c514897.md",
-      "sha256": "0c4e2fbdebb4d3633208d02820eb27523106e49e417542b8b23409c15d71e0f1"
+      "sha256": "cf030c39e6c286773c434439a1dfed32e2ef5b734a13f99a53c542a108c07d72"
     },
     {
       "bytes": 3555,
@@ -555,7 +565,7 @@
     {
       "bytes": 5382,
       "path": "dynamic/数字/2026-09-22 07-17-17 换窗纪要  2026922工具规矩日程待办_ed88c166d83e.md",
-      "sha256": "368b151905266dbdf80abcbde28efbe41a9f50d4fee4ef5760087adf577861fa"
+      "sha256": "b2797add05bc6969fef008e3034138c9d1fcbfb8de0c6f8ac68f54c951f1bf41"
     },
     {
       "bytes": 4752,
@@ -653,11 +663,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-28T04:53:08+00:00",
+  "generated_at": "2026-10-28T05:23:14+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 652477
+  "total_bytes": 660473
 }
