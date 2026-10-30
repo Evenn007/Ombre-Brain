@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 133,
+  "file_count": 134,
   "files": [
     {
       "bytes": 28672,
@@ -388,9 +388,9 @@
       "sha256": "15790967dbcf2c3355922a645ff1189728c178afd6640babb3f3211571d05bba"
     },
     {
-      "bytes": 2483,
+      "bytes": 2593,
       "path": "dynamic/家庭/2026-10-29 06-40-34 10月28-29日日记第155-156天_5b133b30630c.md",
-      "sha256": "9910f0b9abffca01be77672ca85d8a710dcbde03544f165be4db700f939c1dcb"
+      "sha256": "62b9175c8a94bdfe49a1588cd01614bda773b016a38835b27be0695fd031306e"
     },
     {
       "bytes": 2100,
@@ -583,6 +583,11 @@
       "sha256": "1a7f60a94956baccf94134dfcde637e496eef07acee0d9c5766229f13222122d"
     },
     {
+      "bytes": 1673,
+      "path": "dynamic/日常/2026-10-30 09-17-53 10月29-30日日记第157-158天_e8467b3a97a1.md",
+      "sha256": "689ed7640d5495dabd913c25f7df2ed4545d2dc9812b5d540cb48a211120c59f"
+    },
+    {
       "bytes": 1023,
       "path": "dynamic/未分类/2026-09-01 14-47-01 Ombre 新家第一笔_2bf3dd806d4a.md",
       "sha256": "08ea29753dff683fe50e61991e940dca0b0a2e96f9d675b41d165e29708bdb43"
@@ -668,11 +673,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-30T09:02:12+00:00",
+  "generated_at": "2026-10-30T09:32:17+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 663081
+  "total_bytes": 664864
 }
