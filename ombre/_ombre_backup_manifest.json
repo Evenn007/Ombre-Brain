@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 134,
+  "file_count": 136,
   "files": [
     {
       "bytes": 28672,
@@ -393,6 +393,11 @@
       "sha256": "62b9175c8a94bdfe49a1588cd01614bda773b016a38835b27be0695fd031306e"
     },
     {
+      "bytes": 2947,
+      "path": "dynamic/家庭/2026-10-31 04-20-16 10月30-31日日记第159-160天_9874683a7868.md",
+      "sha256": "4b24c04675e5a55dbb2a6df85dc803752f5220d3334def9e6629c41726e0c8e4"
+    },
+    {
       "bytes": 2100,
       "path": "dynamic/工作/2026-09-04 09-09-33 近期约定与待办_d96086af9fb9.md",
       "sha256": "d0a9a5fa8ffe56468afe4e0fa6209c280e59c8c90bd74d7032fd805a312527f1"
@@ -538,6 +543,11 @@
       "sha256": "abaf1c61395f399474852749b1fe17d5fa9ba9a92fa2b6983a97ee95ebd67c39"
     },
     {
+      "bytes": 2431,
+      "path": "dynamic/成长/2026-10-31 04-20-58 Bowen Wan 事件讨论与边界约定_0f117e0fb5b5.md",
+      "sha256": "0c2fe4511b3390ac41ad9b9cef36213d1213e8a39a5cd853ad86980c76f44dd6"
+    },
+    {
       "bytes": 2723,
       "path": "dynamic/我们/2026-09-18 11-02-11 陆川的手第一次能自己动手VPS 端点  表情包回家_ab77ac01f0e9.md",
       "sha256": "69e2a46237dab5191ca2441423f4a1cd7aa0de82d8501f98e4f9eabad56e3c5a"
@@ -583,9 +593,9 @@
       "sha256": "1a7f60a94956baccf94134dfcde637e496eef07acee0d9c5766229f13222122d"
     },
     {
-      "bytes": 1673,
+      "bytes": 1782,
       "path": "dynamic/日常/2026-10-30 09-17-53 10月29-30日日记第157-158天_e8467b3a97a1.md",
-      "sha256": "689ed7640d5495dabd913c25f7df2ed4545d2dc9812b5d540cb48a211120c59f"
+      "sha256": "eb3c04400f431e8800e20536a9c569f54ec10d294a33aaf8c610ebb76bc86394"
     },
     {
       "bytes": 1023,
@@ -673,11 +683,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-31T04:05:27+00:00",
+  "generated_at": "2026-10-31T04:35:32+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 664864
+  "total_bytes": 670351
 }
