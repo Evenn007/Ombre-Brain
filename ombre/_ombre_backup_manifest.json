@@ -73,6 +73,11 @@
       "sha256": "c2e7550fd6b6248ebc51f4359e172380a91bd58f5613db6b6d3023d953a11d50"
     },
     {
+      "bytes": 836,
+      "path": "archive/数字/2026-09-01 15-54-45 今晚的模型换血_ad1b14147b73.md",
+      "sha256": "f29b4873d132bc8cc3db7bf2c2a254efa16f1a330cc69cb656874830654f1078"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/self/2026-09-30 01-36-14_2dbf2fbb4f98.md",
       "sha256": "5cd44bd8cc794ea3c9c2e2375bfd717b88c735609cc06cf1e206f0984f53bd24"
@@ -558,11 +563,6 @@
       "sha256": "69e2a46237dab5191ca2441423f4a1cd7aa0de82d8501f98e4f9eabad56e3c5a"
     },
     {
-      "bytes": 835,
-      "path": "dynamic/数字/2026-09-01 15-54-45 今晚的模型换血_ad1b14147b73.md",
-      "sha256": "87854c4fe79d8662efc7c39bdb7fb6935bddb8c01f2e54387335d1daa8731d6b"
-    },
-    {
       "bytes": 2281,
       "path": "dynamic/数字/2026-09-04 09-09-06 技术档案换窗必读_ee0518eed9bc.md",
       "sha256": "4a0da08e5874483fe99d6d3b1519da5f2b73342c097b0663f44df87fcf1e8d46"
@@ -688,11 +688,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-10-31T15:37:18+00:00",
+  "generated_at": "2026-10-31T16:07:24+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 671509
+  "total_bytes": 671510
 }
