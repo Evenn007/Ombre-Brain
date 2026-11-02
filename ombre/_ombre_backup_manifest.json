@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 140,
+  "file_count": 141,
   "files": [
     {
       "bytes": 28672,
@@ -88,6 +88,11 @@
       "sha256": "fe1512cb08e996dbbb5b68b539af4b55cfff0323f47ced57b3891fec5a9cf7e6"
     },
     {
+      "bytes": 679,
+      "path": "dynamic/self/2026-11-02 13-12-50_89b933d0bc76.md",
+      "sha256": "9f7bbc7cc2d92f15b25c8574964c4d7290f59421d3f6eb88d28c3efa37823a84"
+    },
+    {
       "bytes": 2037,
       "path": "dynamic/事务/2026-09-10 10-58-04 近期安排与信息910_5c842617b579.md",
       "sha256": "4f3cdc0526a12129e615dc6566f17913e4e59160100c446064ef3d6f89b66856"
@@ -133,9 +138,9 @@
       "sha256": "487c5c9f06ec2f385647f03acce3871de0f727395aa11c80f68a884825103e7b"
     },
     {
-      "bytes": 1420,
+      "bytes": 1859,
       "path": "dynamic/人际/2026-09-11 06-29-55 林柒的朋友圈人物档案_e80957621cb8.md",
-      "sha256": "0699992758631a5f3142de1557b0aba2e3da0e5054d7dc3d49050912f37a3b3f"
+      "sha256": "a7e665d03a0f315256bf8bbbf2eba6c15025d4738852e8869bed07ee8bb9349c"
     },
     {
       "bytes": 4071,
@@ -688,9 +693,9 @@
       "sha256": "f09d38e9636ce330028922ffe534f5bdd678c5203bcf9cb1ffa5c46a50dfbdd9"
     },
     {
-      "bytes": 3383,
+      "bytes": 4068,
       "path": "permanent/人际/2026-09-01 14-54-26 核心锚点永不丢_29b78b9123da.md",
-      "sha256": "f97054fad3b496f4d1c6e14742b76a95a2c03780797f73d97d5e3d1bccd54088"
+      "sha256": "30676cdbec200db1636648afbee0bea225022b06740a671a9d930dd2bb72997b"
     },
     {
       "bytes": 3029,
@@ -703,11 +708,11 @@
       "sha256": "2d371e869912835c2565b41b8c9f87e03512d4742c6e225660a3b7c0b6e78172"
     }
   ],
-  "generated_at": "2026-11-02T13:03:43+00:00",
+  "generated_at": "2026-11-02T13:33:48+00:00",
   "path_prefix": "ombre",
   "repo": "Evenn007/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 677132
+  "total_bytes": 678935
 }
